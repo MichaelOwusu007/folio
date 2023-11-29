@@ -16,12 +16,11 @@ function App() {
             <div className=" relative scroll-smooth select-none">
                 <div className=" fixed flex items-center justify-center px-6 bottom-4 right-4 m-4 md:m-10 cursor-pointer p-3 text-xl rounded-3xl font-bold bg-blue-500 z-[20] ">
                     <span></span>
-                    <p>🎉 Hire Me</p>
+                    <p>🍦 Hire Me</p>
                 </div>
                 <header className="text-black mx-auto  md: lg:px-10 flex  justify-between z-10 px-6 h-[5rem] items-center relative top-0 bg-[#fff] sticky ">
-                    <a href="/"><div className="flex items-center gap-3">
-                        <img src="" className="w-[50px] " alt="" />
-                        <h2 className=" font-bold text-2xl uppercase tracking-wider ">Mickerl</h2>
+                    <a href="/"><div className="">
+                        <h2 className=" font-bold text-2xl uppercase tracking-wider ">Mickerl👋</h2>
                     </div></a>
                     <div className="flex items-center  gap-10 ">
                         <nav className="hidden lg:flex gap-x-10 text-[18px] font-semibold ">
@@ -50,10 +49,10 @@ function App() {
                 <section className="max-w-7xl px-6 lg:px-4 mx-auto">
                     <section className="overflow-hidden lg:h-[100vh] flex flex-col lg:flex-row gap-4 mb-20 py-10 justify-evenly items-center ">
                         <div className="">
-                            <img src="" alt="" className="p-6 md:w-[30rem] overflow-x-hidden" />
+                            <img src="me.jpg" alt="" className="p-6 sm:w-[30rem] overflow-x-hidden rounded-full " />
                         </div>
                         <section className="w-full lg:w-[650px] flex flex-col gap-3 ">
-                            <p className="font-semibold text-lg lg:text-xl opacity-60 ">Frontend Developer | Graphic Designer</p>
+                            <p className="font-semibold text-lg lg:text-xl opacity-60 ">Frontend Developer|Designer|Content Creator</p>
                             <h3 className="text-blue-500 text-4xl lg:text-5xl font-bold tracking-wider">Michael Owusu</h3>
                             <h3 className="md:text-xl text-[18px] font-medium">I am a prolific frontend developer and a designer with experience in the web development industry. I specialize in creating visually appealing and intuitive websites and mobile applications to deliver exceptional user experiences. I have a sharp eye for detail and am dedicated to turning your web vision into reality. </h3>
                             <div className=""></div>
@@ -122,7 +121,7 @@ function App() {
                             <section className=" justify-between  flex flex-col lg:flex-row relative gap-14 lg:gap-20  rounded-2xl overflow-hidden shadow-2xl p-5 lg:p-10 ">
                                 
                                 <div className="w-full lg:w-[50%] relative flex flex-col  leading-[2rem]">
-                                    <h3 className="font-semibold text-xl">The Movie Trailer Home</h3>
+                                    <h3 className="font-semibold text-xl lg:text-[25px] ">The Movie Trailer Home</h3>
                                     <p>Movie App with Trailers:</p>
                                     <p className="mb-2 md:text-[17px] ">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Esse voluptatibus quasi expedita totam alias molestiae incidunt eum reiciendis quia repellendus, delectus modi dicta maiores non sequi velit! Numquam, suscipit quis. Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis ipsum tempora, sit quae laudantium, explicabo quis eligendi commodi ut ducimus non atque numquam enim vero nesciunt, temporibus incidunt officiis perspiciatis?</p>
                                     <div className="flex flex-wrap gap-2 w-full">
@@ -142,7 +141,7 @@ function App() {
                             <section className=" justify-between  flex flex-col lg:flex-row relative gap-14 lg:gap-20  rounded-2xl overflow-hidden shadow-2xl p-5 lg:p-10 ">
 
                                 <div className="w-full lg:w-[50%] relative flex flex-col  leading-[2rem]">
-                                    <h3 className="font-semibold text-xl">McKuleGraphics</h3>
+                                    <h3 className="font-semibold text-xl lg:text-[25px]">McKuleGraphics</h3>
                                     <p>Digital Agency:</p>
                                     <p className="mb-2 md:text-[17px] ">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Esse voluptatibus quasi expedita totam alias molestiae incidunt eum reiciendis quia repellendus, delectus modi dicta maiores non sequi velit! Numquam, suscipit quis. Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis ipsum tempora, sit quae laudantium, explicabo quis eligendi commodi ut ducimus non atque numquam enim vero nesciunt, temporibus incidunt officiis perspiciatis?</p>
                                     <div className="flex flex-wrap gap-2 w-full">
@@ -162,7 +161,7 @@ function App() {
                             <section className=" justify-between  flex flex-col lg:flex-row relative gap-14 lg:gap-20  rounded-2xl overflow-hidden shadow-2xl p-5 lg:p-10 ">
 
                                 <div className="w-full lg:w-[50%] relative flex flex-col  leading-[2rem]">
-                                    <h3 className="font-semibold text-xl">Getlinked Landingpage</h3>
+                                    <h3 className="font-semibold text-xl lg:text-[25px]">Getlinked Landingpage</h3>
                                     <p>Getlinked Hackathon Project:</p>
                                     <p className="mb-2 md:text-[17px] ">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Esse voluptatibus quasi expedita totam alias molestiae incidunt eum reiciendis quia repellendus, delectus modi dicta maiores non sequi velit! Numquam, suscipit quis. Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis ipsum tempora, sit quae laudantium, explicabo quis eligendi commodi ut ducimus non atque numquam enim vero nesciunt, temporibus incidunt officiis perspiciatis?</p>
                                     <div className="flex flex-wrap gap-2 w-full">
@@ -180,7 +179,7 @@ function App() {
                             <section className=" justify-between  flex flex-col lg:flex-row relative gap-14 lg:gap-20  rounded-2xl overflow-hidden shadow-2xl p-5 lg:p-10 ">
 
                                 <div className="w-full lg:w-[50%] relative flex flex-col  leading-[2rem]">
-                                    <h3 className="font-semibold text-xl">Pookie</h3>
+                                    <h3 className="font-semibold text-xl lg:text-[25px]">Pookie</h3>
                                     <p>The pet paradise:</p>
                                     <p className="mb-2 md:text-[17px] ">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Esse voluptatibus quasi expedita totam alias molestiae incidunt eum reiciendis quia repellendus, delectus modi dicta maiores non sequi velit! Numquam, suscipit quis. Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis ipsum tempora, sit quae laudantium, explicabo quis eligendi commodi ut ducimus non atque numquam enim vero nesciunt, temporibus incidunt officiis perspiciatis?</p>
                                     <div className="flex flex-wrap gap-2 w-full">
@@ -200,7 +199,7 @@ function App() {
                             <section className=" justify-between  flex flex-col lg:flex-row relative gap-14 lg:gap-20  rounded-2xl overflow-hidden shadow-2xl p-5 lg:p-10 ">
 
                                 <div className="w-full lg:w-[50%] relative flex flex-col  leading-[2rem]">
-                                    <h3 className="font-semibold text-xl">Netflix Clone</h3>
+                                    <h3 className="font-semibold text-xl lg:text-[25px]">Netflix Clone</h3>
                                     <p>Netflix Landingpage:</p>
                                     <p className="mb-2 xl:mb-5 md:text-[17px] ">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Esse voluptatibus quasi expedita totam alias molestiae incidunt eum reiciendis quia repellendus, delectus modi dicta maiores non sequi velit! Numquam, suscipit quis. Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis ipsum tempora, sit quae laudantium,</p>
                                     <div className="flex flex-wrap gap-2 w-full">
@@ -218,7 +217,7 @@ function App() {
                             <section className=" justify-between  flex flex-col lg:flex-row relative gap-14 lg:gap-20  rounded-2xl overflow-hidden shadow-2xl p-5 lg:p-10 ">
 
                                 <div className="w-full lg:w-[50%] relative flex flex-col  leading-[2rem]">
-                                    <h3 className="font-semibold text-xl">FB Clone</h3>
+                                    <h3 className="font-semibold text-xl lg:text-[25px]">FB Clone</h3>
                                     <p>Frontend Application:</p>
                                     <p className="mb-2 xl:mb-5 md:text-[17px] ">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Esse voluptatibus quasi expedita totam alias molestiae incidunt eum reiciendis quia repellendus, delectus modi dicta maiores non sequi velit! Numquam, suscipit quis. Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis ipsum tempora,</p>
                                     <div className="flex flex-wrap gap-2 w-full">
@@ -289,7 +288,7 @@ function App() {
                                         <span className=" relative element">
                                             <span className=" cursor-pointer">design</span>
                                             <span className="absolute z-[9999] custom-hover">
-                                                abobe creative suite
+                                                adobe creative suite
                                             </span>
                                             <span className="absolute z-[9999] custom-hover">
                                                 Photoshop
@@ -302,7 +301,7 @@ function App() {
                                         <span className=" element">
                                             <span className="cursor-pointer">code</span>
                                             <span className="absolute z-[9999] text-white custom-hover">
-                                                ReactJS
+                                                ReactJS/NextJS
                                             </span>
                                             <span className="absolute z-[9999] text-white custom-hover">
                                                 web development
