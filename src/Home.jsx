@@ -20,7 +20,7 @@ function App() {
             <div className=" relative scroll-smooth select-none">
                 <div className=" fixed flex items-center justify-center px-6 bottom-4 right-4 m-4 md:m-10 cursor-pointer p-3 text-xl rounded-3xl font-bold bg-blue-500 z-[20] ">
                     <span></span>
-                    <a href="mailto:nanayawwiafe007@gmail.com"><p>🍦 Hire Me</p></a>
+                    <a href="mailto:michaelowusuwiafe007@gmail.com"><p>🍦 Hire Me</p></a>
                 </div>
                 <header className="text-black mx-auto  md: lg:px-10 flex  justify-between z-10 px-6 h-[5rem] items-center relative top-0 bg-[#fff] sticky ">
                     <a href="/"><div className="">
@@ -336,7 +336,7 @@ function App() {
                             <a href='https://github.com/MichaelOwusu007' className='text-2xl md:text-4xl '><FaGithub /></a>
                             <a href='http://www.youtube.com/@mickerl_Codes' className='text-2xl md:text-4xl '><FaYoutube /></a>
                         </div>
-                        <a href='mailto:nanayawwiafe007@gmail.com'>nanayawwiafe007@gmail.com</a>
+                        <a href='mailto:michaelowusuwiafe007@gmail.com'>nanayawwiafe007@gmail.com</a>
                     </div>
                     <div className='sm:text-md mx-auto mt-10 flex h-20 items-center justify-between border-t text-sm md:text-lg lg:text-xl px-1 '>
                         <p>Copyright @ 2023 |
