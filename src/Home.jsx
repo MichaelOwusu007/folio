@@ -7,6 +7,10 @@ import { FaLinkedinIn } from "react-icons/fa";
 import { FaLaptopCode } from "react-icons/fa6";
 import { FaGithub } from "react-icons/fa";
 import { FaYoutube } from "react-icons/fa";
+import { GoLinkExternal } from "react-icons/go";
+import { FaCode } from "react-icons/fa6";
+import { MdOutlineDesignServices } from "react-icons/md";
+import { TbWriting } from "react-icons/tb";
 
 
 function App() {
@@ -39,11 +43,11 @@ function App() {
                             </div>
                             <div className="link">
                                 <p className="py-2">
-                                <a href="/#About">Blog</a>
+                                    <a href="/#About">Blog</a>
                                 </p>
                             </div>
                         </nav>
-                        <a href="/" className="border border-blue-500 py-2 px-3"> Download CV</a>
+                        <a href="mickerl_codes.pdf" className="border border-blue-500 py-2 px-3"> Download CV</a>
                     </div>
                 </header>
                 <section className="max-w-7xl px-6 lg:px-4 mx-auto">
@@ -52,13 +56,14 @@ function App() {
                             <img src="me.jpg" alt="" className="p-6 sm:w-[30rem] overflow-x-hidden rounded-full " />
                         </div>
                         <section className="w-full lg:w-[650px] flex flex-col gap-3 ">
-                            <p className="font-semibold text-lg lg:text-xl opacity-60 ">Frontend Developer|Designer|Content Creator</p>
+                            <p className="font-semibold text-lg lg:text-xl opacity-60 ">Frontend Developer | Designer | Technical Writer</p>
                             <h3 className="text-blue-500 text-4xl lg:text-5xl font-bold tracking-wider">Michael Owusu</h3>
-                            <h3 className="md:text-xl text-[18px] font-medium">I am a prolific frontend developer and a designer with experience in the web development industry. I specialize in creating visually appealing and intuitive websites and mobile applications to deliver exceptional user experiences. I have a sharp eye for detail and am dedicated to turning your web vision into reality. </h3>
+                            <h3 className="md:text-xl text-[18px] font-medium">As a dedicated front-end software developer. I specialize in creating websites and web applications, combining technical expertise with an aptitude for design. My proficiency extends to crafting user-friendly interfaces and ensuring seamless functionality.I have a sharp eye for detail and am dedicated to turning your web vision into reality.With a passion for innovation, I leverage my front-end skills to transform ideas into impactful digital
+                                experiences. I thrive in collaborative environments and continuously seek opportunities to enhance my skills.</h3>
                             <div className=""></div>
                             <div className="flex gap-4 text-[16px] md:text-xl">
-                                <a className=" border border-[#000] py-2 px-3 " href="/">Download CV</a>
-                                <a href="/" className=" bg-[rgba(169,169,169,0.8)] py-[10px] px-6 hero-link" >Get In Touch</a>
+                                <a className=" border border-[#000] py-2 px-3 " href="mickerl_codes.pdf">Download CV</a>
+                                <a href="mailto:michaelowusuwiafe007@gmail.com" className=" bg-[rgba(169,169,169,0.8)] py-[10px] px-6 hero-link" >Get In Touch</a>
                             </div>
                         </section>
                     </section>
@@ -70,34 +75,34 @@ function App() {
                                 <div>
                                     <h2 className="text-xl font-semibold">Web Development</h2>
                                     <p className="md:text-lg">
-                                        I have expertise in building engaging user interfaces and interactive experiences using HTML, CSS, and JavaScript. I am skilled in popular front-end frameworks like React and Next.js. I also have experience using Tailwind CSS and TypeScript. Additionally, I have a strong grasp of responsive design principles and ensuring compatibility across different browsers.
+                                        Dedicated to crafting compelling and user-friendly interfaces through expert use of HTML, CSS, and JavaScript. Specialized proficiency in developing visually appealing and responsive websites, with expertise in popular front-end frameworks such as React and Next.js. Adept in utilizing Tailwind CSS for streamlined styling. Committed to implementing responsive design principles and ensuring seamless compatibility across various browsers.
                                     </p>
                                 </div>
                             </div>
                             <div className=" bg-[rgba(169,169,169,0.8)] flex gap-4 rounded-md p-4 py-6">
-                                <div className="bg-blue-500 h-[55px] rounded-md p-3 flex items-center justify-center"> <i className="text-4xl text-white"><FaLaptopCode /></i> </div>
+                                <div className="bg-blue-500 h-[55px] rounded-md p-3 flex items-center justify-center"> <i className="text-4xl text-white"><FaCode /></i> </div>
                                 <div>
-                                    <h2 className="text-xl font-semibold">Web Development</h2>
+                                    <h2 className="text-xl font-semibold">Problem Solving/Communication</h2>
                                     <p className="md:text-lg">
-                                        I have expertise in building engaging user interfaces and interactive experiences using HTML, CSS, and JavaScript. I am skilled in popular front-end frameworks like React and Next.js. I also have experience using Tailwind CSS and TypeScript. Additionally, I have a strong grasp of responsive design principles and ensuring compatibility across different browsers.
+                                        I approach challenges methodically, employing analytical thinking and a solutions-oriented mindset to deliver effective outcomes. Additionally, my effective communication skills extend beyond code, fostering open and collaborative dialogue with team members and stakeholders. This ensures a holistic approach to delivering exceptional user experiences while maintaining clear and transparent communication throughout the development process
                                     </p>
                                 </div>
                             </div>
                             <div className=" bg-[rgba(169,169,169,0.8)] flex gap-4 rounded-md p-4 py-6">
-                                <div className="bg-blue-500 h-[55px] rounded-md p-3 flex items-center justify-center"> <i className="text-4xl text-white"><FaLaptopCode /></i> </div>
+                                <div className="bg-blue-500 h-[55px] rounded-md p-3 flex items-center justify-center"> <i className="text-4xl text-white"><MdOutlineDesignServices /></i> </div>
                                 <div>
-                                    <h2 className="text-xl font-semibold">Web Development</h2>
+                                    <h2 className="text-xl font-semibold">UI/UX Design</h2>
                                     <p className="md:text-lg">
-                                        I have expertise in building engaging user interfaces and interactive experiences using HTML, CSS, and JavaScript. I am skilled in popular front-end frameworks like React and Next.js. I also have experience using Tailwind CSS and TypeScript. Additionally, I have a strong grasp of responsive design principles and ensuring compatibility across different browsers.
+                                        Enhancing user satisfaction by improving the usability, accessibility, and overall visual appeal of digital interfaces. Integrating design principles into front-end development projects. While I may not be a professional designer, rest assured that I bring a strong design sensibility to the table. Allow me to contribute to your next project. I am confident in my ability to deliver impactful design solutions with dedication and skill.
                                     </p>
                                 </div>
                             </div>
                             <div className=" bg-[rgba(169,169,169,0.8)] flex gap-4 rounded-md p-4 py-6">
-                                <div className="bg-blue-500 h-[55px] rounded-md p-3 flex items-center justify-center"> <i className="text-4xl text-white"><FaLaptopCode /></i> </div>
+                                <div className="bg-blue-500 h-[55px] rounded-md p-3 flex items-center justify-center"> <i className="text-4xl text-white"><TbWriting /></i> </div>
                                 <div>
-                                    <h2 className="text-xl font-semibold">Web Development</h2>
+                                    <h2 className="text-xl font-semibold">Technical Writing</h2>
                                     <p className="md:text-lg">
-                                        I have expertise in building engaging user interfaces and interactive experiences using HTML, CSS, and JavaScript. I am skilled in popular front-end frameworks like React and Next.js. I also have experience using Tailwind CSS and TypeScript. Additionally, I have a strong grasp of responsive design principles and ensuring compatibility across different browsers.
+                                        Proficient in translating intricate technical details into accessible and clear communication. Leveraging advanced writing skills to produce comprehensive documentation, user-friendly guides, and insightful articles that contribute to a deeper understanding of software development. Experienced in distilling complex concepts into digestible content for diverse audiences, fostering effective knowledge transfer.
                                     </p>
                                 </div>
                             </div>
@@ -106,11 +111,12 @@ function App() {
                     <section id="About" className=" w-full mb-20 py-10 snap-y scroll-mt-[6rem] ">
                         <h2 className="title relative w-max px-2 mb-3 font-semibold text-4xl ">About Me</h2>
                         <p className="align-justify text-[18px] leading-[1.8em]  md:leading-[2em] md:text-xl ">
-                            Tech is one thing I'm very passionate about,I love to learn new stuff. I was a bit late to programming tho buh I'm doing my best and I try to document my progress everyday by building new stuff. I craft stunning, intuitive websites and mobile apps that deliver exceptional user experiences. Turning your vision into reality on the web, one pixel at a time.
+
+                            I have a strong passion for technology and thrive on constantly learning new things. Every day, I make it a point to document my progress by creating and building new projects. My expertise lies in crafting visually appealing and user-friendly websites and web applications. I take pride in translating visions into web realities, paying attention to every pixel.
                             <br />
-                            Tech is one thing I'm very passionate about,I love to learn new stuff. I was a bit late to programming tho buh I'm doing my best and I try to document my progress everyday by building new stuff. I craft stunning, intuitive websites and mobile apps that deliver exceptional user experiences. Turning your vision into reality on the web, one pixel at a time.
+                            As a frontend developer, I am dedicated to creating seamless and intuitive user experiences. Design is not just a task for me; it's a form of problem-solving that I enjoy immensely. I believe in simplicity but strive for perfection in every project I undertake. My journey in the tech industry is driven by a love for building innovative solutions and solving problems.
                             <br />
-                            Tech is one thing I'm very passionate about,I love to learn new stuff. I was a bit late to programming tho buh I'm doing my best and I try to document my progress everyday by building new stuff. I craft stunning, intuitive websites and mobile apps that deliver exceptional user experiences. Turning your vision into reality on the web, one pixel at a time.
+                            Beyond coding, I find inspiration in music and in playing basketball. These are not just hobbies for me; they contribute to my creative thinking and problem-solving skills. The decision to join the tech industry was fueled by my passion for building new things and the joy I find in overcoming challenges. In essence, simplicity, perfection, and a love for problem-solving define my approach to both technology and life.
                         </p>
                     </section>
                     <section id="Project" className=" py-10 pb-20 snap-y scroll-mt-[6rem] ">
@@ -118,117 +124,117 @@ function App() {
                             Projects
                         </h2>
                         <div className="mt-10 scroll-m-[30px] ">
-                            <section className=" justify-between  flex flex-col lg:flex-row relative gap-14 lg:gap-20  rounded-2xl overflow-hidden shadow-2xl p-5 lg:p-10 ">
-                                
-                                <div className="w-full lg:w-[50%] relative flex flex-col  leading-[2rem]">
+                            <section className=" justify-between  flex flex-col lg:flex-row relative gap-14 lg:gap-15  rounded-2xl overflow-hidden shadow-2xl p-5 lg:p-10 ">
+
+                                <div className="w-full lg:w-[55%] relative flex flex-col  leading-[2rem]">
                                     <h3 className="font-semibold text-xl lg:text-[25px] ">The Movie Trailer Home</h3>
                                     <p>Movie App with Trailers:</p>
-                                    <p className="mb-2 md:text-[17px] ">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Esse voluptatibus quasi expedita totam alias molestiae incidunt eum reiciendis quia repellendus, delectus modi dicta maiores non sequi velit! Numquam, suscipit quis. Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis ipsum tempora, sit quae laudantium, explicabo quis eligendi commodi ut ducimus non atque numquam enim vero nesciunt, temporibus incidunt officiis perspiciatis?</p>
+                                    <p className="mb-2  md:text-[17px] ">A movie trailer application i built using React, TMDB API and firebase for user authentication and data storage. Implemented dynamic content fetching, displaying movie details, search movie functionality and streaming trailers.</p>
                                     <div className="flex flex-wrap gap-2 w-full">
                                         <p className="border border-[#000] px-4 py-1 bg-[#2221] rounded-2xl text-sm">ReactJS</p>
                                         <p className="border border-[#000] px-4 py-1 bg-[#2221] rounded-2xl text-sm">Firebase</p>
                                         <p className="border border-[#000] px-4 py-1 bg-[#2221] rounded-2xl text-sm">TmdbAPI</p>
                                         <p className="border border-[#000] px-4 py-1 bg-[#2221] rounded-2xl text-sm">TailwindCSS</p>
                                     </div>
-                                    <div className="text-lg py-2 text-center bg-blue-500 rounded w-[150px] mt-2 text-white font-semibold ">Explore Project</div>
+                                    <a href="/" className="text-lg py-2 text-center bg-blue-500 rounded w-[180px] mt-2 text-white font-semibold flex justify-center items-center gap-1">Explore Project <GoLinkExternal /> </a>
                                 </div>
                                 <div>
-                                    <img className="rounded opacity-90 object-cover bg-contain w-full lg:w-[550px] h-[350px] lg:h-[420px] " src="tapflix.PNG" alt="" />
+                                    <img className="rounded opacity-90 object-contain bg-contain w-full lg:w-[600px] h-[px] lg:h-[px] " src="tapflix.jpg" alt="" />
                                 </div>
                             </section>
                         </div>
                         <div className="mt-10 scroll-m-[30px] ">
-                            <section className=" justify-between  flex flex-col lg:flex-row relative gap-14 lg:gap-20  rounded-2xl overflow-hidden shadow-2xl p-5 lg:p-10 ">
+                            <section className=" justify-between  flex flex-col lg:flex-row relative gap-14 lg:gap-15  rounded-2xl overflow-hidden shadow-2xl p-5 lg:p-10 ">
 
-                                <div className="w-full lg:w-[50%] relative flex flex-col  leading-[2rem]">
+                                <div className="w-full lg:w-[55%] relative flex flex-col  leading-[2rem]">
                                     <h3 className="font-semibold text-xl lg:text-[25px]">McKuleGraphics</h3>
                                     <p>Digital Agency:</p>
-                                    <p className="mb-2 md:text-[17px] ">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Esse voluptatibus quasi expedita totam alias molestiae incidunt eum reiciendis quia repellendus, delectus modi dicta maiores non sequi velit! Numquam, suscipit quis. Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis ipsum tempora, sit quae laudantium, explicabo quis eligendi commodi ut ducimus non atque numquam enim vero nesciunt, temporibus incidunt officiis perspiciatis?</p>
+                                    <p className="mb-2 md:text-[17px] "> A freelancing project developed using Next.js and TypeScript, ensuring a performant and scalable web solution.Integrated Nodemailer for seamless user communication, allowing easy inquiries to the company. Applied Tailwind CSS for a responsive user interface.</p>
                                     <div className="flex flex-wrap gap-2 w-full">
                                         <p className="border border-[#000] px-4 py-1 bg-[#2221] rounded-2xl text-sm">NextJS</p>
                                         <p className="border border-[#000] px-4 py-1 bg-[#2221] rounded-2xl text-sm">TailwindCSS</p>
                                         <p className="border border-[#000] px-4 py-1 bg-[#2221] rounded-2xl text-sm">Photoshop</p>
-                                        <p className="border border-[#000] px-4 py-1 bg-[#2221] rounded-2xl text-sm">Nodemailer</p>
+                                       
                                     </div>
-                                    <div className="text-lg py-2 text-center bg-blue-500 rounded w-[150px] mt-2 text-white font-semibold ">Explore Project</div>
+                                    <a href="/" className="text-lg py-2 text-center bg-blue-500 rounded w-[180px] mt-2 text-white font-semibold flex justify-center items-center gap-1">Explore Project <GoLinkExternal /> </a>
                                 </div>
                                 <div>
-                                    <img className="rounded object-cover bg-contain w-full lg:w-[550px] h-[350px] lg:h-[420px] " src="tapflix.PNG" alt="" />
+                                    <img className="rounded object-cntain bg-contain w-full lg:w-[600px] h-[px] lg:h-[px] " src="tapflix.PNG" alt="" />
                                 </div>
                             </section>
                         </div>
                         <div className="mt-10 scroll-m-[30px] ">
-                            <section className=" justify-between  flex flex-col lg:flex-row relative gap-14 lg:gap-20  rounded-2xl overflow-hidden shadow-2xl p-5 lg:p-10 ">
+                            <section className=" justify-between  flex flex-col lg:flex-row relative gap-14 lg:gap-15  rounded-2xl overflow-hidden shadow-2xl p-5 lg:p-10 ">
 
-                                <div className="w-full lg:w-[50%] relative flex flex-col  leading-[2rem]">
+                                <div className="w-full lg:w-[55%] relative flex flex-col  leading-[2rem]">
                                     <h3 className="font-semibold text-xl lg:text-[25px]">Getlinked Landingpage</h3>
                                     <p>Getlinked Hackathon Project:</p>
-                                    <p className="mb-2 md:text-[17px] ">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Esse voluptatibus quasi expedita totam alias molestiae incidunt eum reiciendis quia repellendus, delectus modi dicta maiores non sequi velit! Numquam, suscipit quis. Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis ipsum tempora, sit quae laudantium, explicabo quis eligendi commodi ut ducimus non atque numquam enim vero nesciunt, temporibus incidunt officiis perspiciatis?</p>
+                                    <p className="mb-2 md:text-[17px] ">Used Next.js and Tailwind CSS for a polished and visually appealing user interface. Seamlessly blended functionality with visuals to create an engaging and informative platform. The result was a visually compelling and user-friendly landing page.</p>
                                     <div className="flex flex-wrap gap-2 w-full">
                                         <p className="border border-[#000] px-4 py-1 bg-[#2221] rounded-2xl text-sm">NextJs</p>
                                         <p className="border border-[#000] px-4 py-1 bg-[#2221] rounded-2xl text-sm">TailwindCSS</p>
                                     </div>
-                                    <div className="text-lg py-2 text-center bg-blue-500 rounded w-[150px] mt-2 text-white font-semibold ">Explore Project</div>
+                                    <a href="/" className="text-lg py-2 text-center bg-blue-500 rounded w-[180px] mt-2 text-white font-semibold flex justify-center items-center gap-1">Explore Project <GoLinkExternal /> </a>
                                 </div>
                                 <div>
-                                    <img className="rounded object-cover bg-contain w-full lg:w-[550px] h-[350px] lg:h-[420px] " src="getlinked.png" alt="" />
+                                    <img className="rounded object-contain bg-contain w-full lg:w-[600px] h-[px] lg:h-[px] opacity-90 " src="getlinked.png" alt="" />
                                 </div>
                             </section>
                         </div>
                         <div className="mt-10 scroll-m-[30px] ">
-                            <section className=" justify-between  flex flex-col lg:flex-row relative gap-14 lg:gap-20  rounded-2xl overflow-hidden shadow-2xl p-5 lg:p-10 ">
+                            <section className=" justify-between  flex flex-col lg:flex-row relative gap-14 lg:gap-15  rounded-2xl overflow-hidden shadow-2xl p-5 lg:p-10 ">
 
-                                <div className="w-full lg:w-[50%] relative flex flex-col  leading-[2rem]">
+                                <div className="w-full lg:w-[55%] relative flex flex-col  leading-[2rem]">
                                     <h3 className="font-semibold text-xl lg:text-[25px]">Pookie</h3>
                                     <p>The pet paradise:</p>
-                                    <p className="mb-2 md:text-[17px] ">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Esse voluptatibus quasi expedita totam alias molestiae incidunt eum reiciendis quia repellendus, delectus modi dicta maiores non sequi velit! Numquam, suscipit quis. Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis ipsum tempora, sit quae laudantium, explicabo quis eligendi commodi ut ducimus non atque numquam enim vero nesciunt, temporibus incidunt officiis perspiciatis?</p>
+                                    <p className="mb-2 md:text-[17px] "> Created an interactive ReactJS application, ”Pookie,” integrating Dog API and the Cat API.Implemented a unique temperament matching feature, providing users with personalized pet suggestions. </p>
                                     <div className="flex flex-wrap gap-2 w-full">
                                         <p className="border border-[#000] px-4 py-1 bg-[#2221] rounded-2xl text-sm">ReactJS</p>
                                         <p className="border border-[#000] px-4 py-1 bg-[#2221] rounded-2xl text-sm">TailwindCSS</p>
                                         <p className="border border-[#000] px-4 py-1 bg-[#2221] rounded-2xl text-sm">TheDogAPI</p>
                                         <p className="border border-[#000] px-4 py-1 bg-[#2221] rounded-2xl text-sm">TheCatAPI</p>
                                     </div>
-                                    <div className="text-lg py-2 text-center bg-blue-500 rounded w-[150px] mt-2 text-white font-semibold ">Explore Project</div>
+                                    <a href="/" className="text-lg py-2 text-center bg-blue-500 rounded w-[180px] mt-2 text-white font-semibold flex justify-center items-center gap-1">Explore Project <GoLinkExternal /> </a>
                                 </div>
                                 <div>
-                                    <img className="rounded  object-cover bg-contain w-full lg:w-[550px] h-[350px] lg:h-[420px] " src="pookie.PNG" alt="" />
+                                    <img className="rounded  object-contain bg-contain w-full lg:w-[600px] h-[px] lg:h-[px] " src="pookie.jpg" alt="" />
                                 </div>
                             </section>
                         </div>
                         <div className="mt-10 scroll-m-[30px] ">
-                            <section className=" justify-between  flex flex-col lg:flex-row relative gap-14 lg:gap-20  rounded-2xl overflow-hidden shadow-2xl p-5 lg:p-10 ">
+                            <section className=" justify-between  flex flex-col lg:flex-row relative gap-14 lg:gap-15  rounded-2xl overflow-hidden shadow-2xl p-5 lg:p-10 ">
 
-                                <div className="w-full lg:w-[50%] relative flex flex-col  leading-[2rem]">
+                                <div className="w-full lg:w-[55%] relative flex flex-col  leading-[2rem]">
                                     <h3 className="font-semibold text-xl lg:text-[25px]">Netflix Clone</h3>
                                     <p>Netflix Landingpage:</p>
-                                    <p className="mb-2 xl:mb-5 md:text-[17px] ">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Esse voluptatibus quasi expedita totam alias molestiae incidunt eum reiciendis quia repellendus, delectus modi dicta maiores non sequi velit! Numquam, suscipit quis. Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis ipsum tempora, sit quae laudantium,</p>
+                                    <p className="mb-2 md:text-[17px] ">Demonstrated attention to detail in replicating visual elements, layout and proficiency in front-end development.As the sole contributor to this project, I undertook the challenge of building the Netflix landing page clone from scratch using Next.js and tailwind CSS.</p>
                                     <div className="flex flex-wrap gap-2 w-full">
                                         <p className="border border-[#000] px-4 py-1 bg-[#2221] rounded-2xl text-sm">NextJS</p>
                                         <p className="border border-[#000] px-4 py-1 bg-[#2221] rounded-2xl text-sm">TailwindCSS</p>
                                     </div>
-                                    <div className="text-lg py-2 text-center bg-blue-500 rounded w-[150px] mt-2 xl:mt-5 text-white font-semibold ">Explore Project</div>
+                                    <a href="/" className="text-lg py-2 text-center bg-blue-500 rounded w-[180px] mt-2 text-white font-semibold flex justify-center items-center gap-1">Explore Project <GoLinkExternal /> </a>
                                 </div>
                                 <div>
-                                    <img className="rounded  object-cover bg-contain w-full lg:w-[550px] h-[350px] lg:h-[420px] " src="netflix.png" alt="" />
+                                    <img className="rounded  object-contain bg-contain w-full lg:w-[600px] h-[px] lg:h-[px] " src="netflix.jpg" alt="" />
                                 </div>
                             </section>
                         </div>
                         <div className="mt-10 scroll-m-[30px] ">
-                            <section className=" justify-between  flex flex-col lg:flex-row relative gap-14 lg:gap-20  rounded-2xl overflow-hidden shadow-2xl p-5 lg:p-10 ">
+                            <section className=" justify-between  flex flex-col lg:flex-row relative gap-14 lg:gap-15  rounded-2xl overflow-hidden shadow-2xl p-5 lg:p-10 ">
 
-                                <div className="w-full lg:w-[50%] relative flex flex-col  leading-[2rem]">
+                                <div className="w-full lg:w-[55%] relative flex flex-col  leading-[2rem]">
                                     <h3 className="font-semibold text-xl lg:text-[25px]">FB Clone</h3>
                                     <p>Frontend Application:</p>
-                                    <p className="mb-2 xl:mb-5 md:text-[17px] ">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Esse voluptatibus quasi expedita totam alias molestiae incidunt eum reiciendis quia repellendus, delectus modi dicta maiores non sequi velit! Numquam, suscipit quis. Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis ipsum tempora,</p>
+                                    <p className="mb-2  md:text-[17px] ">Built with html, pure CSS and JavaScript.Developed the front-end of Facebook web application. Applied design principles to create an interface that mirrors the look and feel of the Facebook platform.</p>
                                     <div className="flex flex-wrap gap-2 w-full">
                                         <p className="border border-[#000] px-4 py-1 bg-[#2221] rounded-2xl text-sm">HTML5</p>
                                         <p className="border border-[#000] px-4 py-1 bg-[#2221] rounded-2xl text-sm">PureCSS</p>
                                         <p className="border border-[#000] px-4 py-1 bg-[#2221] rounded-2xl text-sm">Javascript</p>
                                     </div>
-                                    <a href="/" className="text-lg py-2 text-center bg-blue-500 rounded w-[150px] mt-2 xl:mt-5 text-white font-semibold ">Explore Project</a>
+                                    <a href="/" className="text-lg py-2 text-center bg-blue-500 rounded w-[180px] mt-2 text-white font-semibold flex justify-center items-center gap-1">Explore Project <GoLinkExternal /> </a>
                                 </div>
                                 <div>
-                                    <img className="rounded  object-cover bg-contain w-full lg:w-[550px] h-[350px] lg:h-[420px] " src="fb.png" alt="" />
+                                    <img className="rounded  object-cover bg-contain w-full lg:w-[600px] h-[px] lg:h-[px] " src="fb.png" alt="" />
                                 </div>
                             </section>
                         </div>
@@ -240,43 +246,43 @@ function App() {
                             <div className="px-2 py-2 flex items-center w-[170px] rounded-[9999px] justify-center shadow-lg shadow-gray-300'">
                                 <p className="px-2">HTML5</p>
                                 <i></i>
-                            </div> 
+                            </div>
                             <div className="px-2 py-2 flex items-center w-[170px] rounded-[9999px] justify-center shadow-lg shadow-gray-300'">
                                 <p className="px-2">CSS</p>
                                 <i></i>
-                            </div> 
+                            </div>
                             <div className="px-2 py-2 flex items-center w-[170px] rounded-[9999px] justify-center shadow-lg shadow-gray-300'">
                                 <p className="px-2">TailwindCSS</p>
                                 <i></i>
-                            </div> 
+                            </div>
                             <div className="px-2 py-2 flex items-center w-[170px] rounded-[9999px] justify-center shadow-lg shadow-gray-300'">
                                 <p className="px-2">RectJS</p>
                                 <i></i>
-                            </div> 
+                            </div>
                             <div className="px-2 py-2 flex items-center w-[170px] rounded-[9999px] justify-center shadow-lg shadow-gray-300'">
                                 <p className="px-2">NextJS</p>
                                 <i></i>
-                            </div> 
+                            </div>
                             <div className="px-2 py-2 flex items-center w-[170px] rounded-[9999px] justify-center shadow-lg shadow-gray-300'">
                                 <p className="px-2">Git git</p>
                                 <i></i>
-                            </div> 
+                            </div>
                             <div className="px-2 py-2 flex items-center w-[170px] rounded-[9999px] justify-center shadow-lg shadow-gray-300'">
                                 <p className="px-2">Redux</p>
                                 <i></i>
-                            </div> 
+                            </div>
                             <div className="px-2 py-2 flex items-center w-[170px] rounded-[9999px] justify-center shadow-lg shadow-gray-300'">
                                 <p className="px-2">Firebase</p>
                                 <i></i>
-                            </div> 
+                            </div>
                             <div className="px-2 py-2 flex items-center w-[170px] rounded-[9999px] justify-center shadow-lg shadow-gray-300'">
                                 <p className="px-2">Photoshop</p>
                                 <i></i>
-                            </div> 
+                            </div>
                             <div className="px-2 py-2 flex items-center w-[170px] rounded-[9999px] justify-center shadow-lg shadow-gray-300'">
                                 <p className="px-2">Javascript</p>
                                 <i></i>
-                            </div> 
+                            </div>
                         </section>
                     </section>
                     <div className="mx-auto pt-20   flex text-center  gap-4 items-center justify-center flex-col">
@@ -284,7 +290,7 @@ function App() {
                             <div className="container mx-auto">
                                 <div className=" flex flex-col  w-full">
                                     <h1 className=" masked  relative  font-bold bg-clip-text text-transparent ">
-                                         I{" "}
+                                        I{" "}
                                         <span className=" relative element">
                                             <span className=" cursor-pointer">design</span>
                                             <span className="absolute z-[9999] custom-hover">
@@ -312,24 +318,24 @@ function App() {
                                         </span>{" "}
                                         It here.
                                     </h1>
-                                  <p className="text-sm opacity-[0.5] ">Hover over text for something nice.</p>
+                                    <p className="text-sm opacity-[0.5] ">Hover over text for something nice.</p>
                                 </div>
                             </div>
                         </h2>
                     </div>
-                    
+
                 </section>
                 <footer >
                     <div className="py-36 flex flex-col items-center justify-center">
-                    <div className='flex gap-6 pb-4'>
-                        <a href='https://twitter.com/Mickerl_Codes' className=' text-2xl md:text-4xl  '><FaXTwitter /></a>
-                        <a href='https://www.instagram.com/mickerl_codes/' className='text-2xl md:text-4xl  '><FaInstagram /></a>
-                        <a href='mailto:nanayawwiafe007@gmail.com' className='text-2xl md:text-4xl '><MdOutlineMailOutline /></a>
-                        <a href='https://www.linkedin.com/in/mickerl-codes/' className='text-2xl md:text-4xl'><FaLinkedinIn /></a>
+                        <div className='flex gap-6 pb-4'>
+                            <a href='https://twitter.com/Mickerl_Codes' className=' text-2xl md:text-4xl  '><FaXTwitter /></a>
+                            <a href='https://www.instagram.com/mickerl_codes/' className='text-2xl md:text-4xl  '><FaInstagram /></a>
+                            <a href='mailto:nanayawwiafe007@gmail.com' className='text-2xl md:text-4xl '><MdOutlineMailOutline /></a>
+                            <a href='https://www.linkedin.com/in/mickerl-codes/' className='text-2xl md:text-4xl'><FaLinkedinIn /></a>
                             <a href='mailto:nanayawwiafe007@gmail.com' className='text-2xl md:text-4xl '><FaGithub /></a>
                             <a href='https://www.linkedin.com/in/mickerl-codes/' className='text-2xl md:text-4xl '><FaYoutube /></a>
-                    </div>
-                    <a href='mailto:nanayawwiafe007@gmail.com'>nanayawwiafe007@gmail.com</a>
+                        </div>
+                        <a href='mailto:nanayawwiafe007@gmail.com'>nanayawwiafe007@gmail.com</a>
                     </div>
                     <div className='sm:text-md mx-auto mt-10 flex h-20 items-center justify-between border-t text-sm md:text-lg lg:text-xl px-1 '>
                         <p>Copyright @ 2023 |
