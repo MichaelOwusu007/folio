@@ -83,7 +83,7 @@ function App() {
                             <div className=" bg-[rgba(169,169,169,0.8)] flex gap-4 rounded-md p-4 py-6">
                                 <div className="bg-blue-500 h-[55px] rounded-md p-3 flex items-center justify-center"> <i className="text-4xl text-white"><FaCode /></i> </div>
                                 <div>
-                                    <h2 className="text-xl font-semibold">Problem Solving/Communication</h2>
+                                    <h2 className="text-xl font-semibold">Problem Solving</h2>
                                     <p className="md:text-lg">
                                         I approach challenges methodically, employing analytical thinking and a solutions-oriented mindset to deliver effective outcomes. Additionally, my effective communication skills extend beyond code, fostering open and collaborative dialogue with team members and stakeholders. This ensures a holistic approach to delivering exceptional user experiences while maintaining clear and transparent communication throughout the development process
                                     </p>
