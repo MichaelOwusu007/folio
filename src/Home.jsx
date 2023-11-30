@@ -20,7 +20,7 @@ function App() {
             <div className=" relative scroll-smooth select-none">
                 <div className=" fixed flex items-center justify-center px-6 bottom-4 right-4 m-4 md:m-10 cursor-pointer p-3 text-xl rounded-3xl font-bold bg-blue-500 z-[20] ">
                     <span></span>
-                    <p>🍦 Hire Me</p>
+                    <a href="mailto:nanayawwiafe007@gmail.com"><p>🍦 Hire Me</p></a>
                 </div>
                 <header className="text-black mx-auto  md: lg:px-10 flex  justify-between z-10 px-6 h-[5rem] items-center relative top-0 bg-[#fff] sticky ">
                     <a href="/"><div className="">
@@ -41,11 +41,12 @@ function App() {
                                     <a href="/#Project">Project</a>
                                 </p>
                             </div>
+                            {/*
                             <div className="link">
                                 <p className="py-2">
                                     <a href="/#About">Blog</a>
                                 </p>
-                            </div>
+                            </div>*/}
                         </nav>
                         <a href="mickerl_codes.pdf" className="border border-blue-500 py-2 px-3"> Download CV</a>
                     </div>
@@ -56,7 +57,7 @@ function App() {
                             <img src="me.jpg" alt="" className="p-6 sm:w-[30rem] overflow-x-hidden rounded-full " />
                         </div>
                         <section className="w-full lg:w-[650px] flex flex-col gap-3 ">
-                            <p className="font-semibold text-lg lg:text-xl opacity-60 ">Frontend Developer | Designer | Technical Writer</p>
+                            <p className="font-semibold text-lg lg:text-xl opacity-60 ">Frontend Developer | Designer </p>
                             <h3 className="text-blue-500 text-4xl lg:text-5xl font-bold tracking-wider">Michael Owusu</h3>
                             <h3 className="md:text-xl text-[18px] font-medium">As a dedicated front-end software developer. I specialize in creating websites and web applications, combining technical expertise with an aptitude for design. My proficiency extends to crafting user-friendly interfaces and ensuring seamless functionality.I have a sharp eye for detail and am dedicated to turning your web vision into reality.With a passion for innovation, I leverage my front-end skills to transform ideas into impactful digital
                                 experiences. I thrive in collaborative environments and continuously seek opportunities to enhance my skills.</h3>
@@ -136,7 +137,7 @@ function App() {
                                         <p className="border border-[#000] px-4 py-1 bg-[#2221] rounded-2xl text-sm">TmdbAPI</p>
                                         <p className="border border-[#000] px-4 py-1 bg-[#2221] rounded-2xl text-sm">TailwindCSS</p>
                                     </div>
-                                    <a href="/" className="text-lg py-2 text-center bg-blue-500 rounded w-[180px] mt-2 text-white font-semibold flex justify-center items-center gap-1">Explore Project <GoLinkExternal /> </a>
+                                    <a href="https://tapflixtrailer.vercel.app/" className="text-lg py-2 text-center bg-blue-500 rounded w-[180px] mt-2 text-white font-semibold flex justify-center items-center gap-1">Explore Project <GoLinkExternal /> </a>
                                 </div>
                                 <div>
                                     <img className="rounded opacity-90 object-contain bg-contain w-full lg:w-[600px] h-[px] lg:h-[px] " src="tapflix.jpg" alt="" />
@@ -154,12 +155,12 @@ function App() {
                                         <p className="border border-[#000] px-4 py-1 bg-[#2221] rounded-2xl text-sm">NextJS</p>
                                         <p className="border border-[#000] px-4 py-1 bg-[#2221] rounded-2xl text-sm">TailwindCSS</p>
                                         <p className="border border-[#000] px-4 py-1 bg-[#2221] rounded-2xl text-sm">Photoshop</p>
-                                       
+
                                     </div>
-                                    <a href="/" className="text-lg py-2 text-center bg-blue-500 rounded w-[180px] mt-2 text-white font-semibold flex justify-center items-center gap-1">Explore Project <GoLinkExternal /> </a>
+                                    <a href="https://github.com/MichaelOwusu007/weeditwedesign" className="text-lg py-2 text-center bg-blue-500 rounded w-[180px] mt-2 text-white font-semibold flex justify-center items-center gap-1">Explore Project <GoLinkExternal /> </a>
                                 </div>
                                 <div>
-                                    <img className="rounded object-cntain bg-contain w-full lg:w-[600px] h-[px] lg:h-[px] " src="tapflix.PNG" alt="" />
+                                    <img className="rounded object-cntain bg-contain w-full lg:w-[600px] h-[px] lg:h-[px] " src="freelance.PNG" alt="" />
                                 </div>
                             </section>
                         </div>
@@ -174,10 +175,10 @@ function App() {
                                         <p className="border border-[#000] px-4 py-1 bg-[#2221] rounded-2xl text-sm">NextJs</p>
                                         <p className="border border-[#000] px-4 py-1 bg-[#2221] rounded-2xl text-sm">TailwindCSS</p>
                                     </div>
-                                    <a href="/" className="text-lg py-2 text-center bg-blue-500 rounded w-[180px] mt-2 text-white font-semibold flex justify-center items-center gap-1">Explore Project <GoLinkExternal /> </a>
+                                    <a href="https://getlinked-liard.vercel.app/" className="text-lg py-2 text-center bg-blue-500 rounded w-[180px] mt-2 text-white font-semibold flex justify-center items-center gap-1">Explore Project <GoLinkExternal /> </a>
                                 </div>
                                 <div>
-                                    <img className="rounded object-contain bg-contain w-full lg:w-[600px] h-[px] lg:h-[px] opacity-90 " src="getlinked.png" alt="" />
+                                    <img className="rounded object-contain bg-contain w-full lg:w-[600px] h-[px] lg:h-[px] opacity-90 " src="getlinked.jpg" alt="" />
                                 </div>
                             </section>
                         </div>
@@ -194,7 +195,7 @@ function App() {
                                         <p className="border border-[#000] px-4 py-1 bg-[#2221] rounded-2xl text-sm">TheDogAPI</p>
                                         <p className="border border-[#000] px-4 py-1 bg-[#2221] rounded-2xl text-sm">TheCatAPI</p>
                                     </div>
-                                    <a href="/" className="text-lg py-2 text-center bg-blue-500 rounded w-[180px] mt-2 text-white font-semibold flex justify-center items-center gap-1">Explore Project <GoLinkExternal /> </a>
+                                    <a href="https://pookie-liard.vercel.app/" className="text-lg py-2 text-center bg-blue-500 rounded w-[180px] mt-2 text-white font-semibold flex justify-center items-center gap-1">Explore Project <GoLinkExternal /> </a>
                                 </div>
                                 <div>
                                     <img className="rounded  object-contain bg-contain w-full lg:w-[600px] h-[px] lg:h-[px] " src="pookie.jpg" alt="" />
@@ -212,7 +213,7 @@ function App() {
                                         <p className="border border-[#000] px-4 py-1 bg-[#2221] rounded-2xl text-sm">NextJS</p>
                                         <p className="border border-[#000] px-4 py-1 bg-[#2221] rounded-2xl text-sm">TailwindCSS</p>
                                     </div>
-                                    <a href="/" className="text-lg py-2 text-center bg-blue-500 rounded w-[180px] mt-2 text-white font-semibold flex justify-center items-center gap-1">Explore Project <GoLinkExternal /> </a>
+                                    <a href="https://netflixreplica.vercel.app/" className="text-lg py-2 text-center bg-blue-500 rounded w-[180px] mt-2 text-white font-semibold flex justify-center items-center gap-1">Explore Project <GoLinkExternal /> </a>
                                 </div>
                                 <div>
                                     <img className="rounded  object-contain bg-contain w-full lg:w-[600px] h-[px] lg:h-[px] " src="netflix.jpg" alt="" />
@@ -225,16 +226,16 @@ function App() {
                                 <div className="w-full lg:w-[55%] relative flex flex-col  leading-[2rem]">
                                     <h3 className="font-semibold text-xl lg:text-[25px]">FB Clone</h3>
                                     <p>Frontend Application:</p>
-                                    <p className="mb-2  md:text-[17px] ">Built with html, pure CSS and JavaScript.Developed the front-end of Facebook web application. Applied design principles to create an interface that mirrors the look and feel of the Facebook platform.</p>
+                                    <p className="mb-2  md:text-[17px] ">Built with html, pure CSS and vanilla JavaScript.Developed the front-end of Facebook web application. Applied design principles to create an interface that mirrors the look and feel of the Facebook platform.</p>
                                     <div className="flex flex-wrap gap-2 w-full">
                                         <p className="border border-[#000] px-4 py-1 bg-[#2221] rounded-2xl text-sm">HTML5</p>
                                         <p className="border border-[#000] px-4 py-1 bg-[#2221] rounded-2xl text-sm">PureCSS</p>
                                         <p className="border border-[#000] px-4 py-1 bg-[#2221] rounded-2xl text-sm">Javascript</p>
                                     </div>
-                                    <a href="/" className="text-lg py-2 text-center bg-blue-500 rounded w-[180px] mt-2 text-white font-semibold flex justify-center items-center gap-1">Explore Project <GoLinkExternal /> </a>
+                                    <a href="https://supbook.vercel.app/" className="text-lg py-2 text-center bg-blue-500 rounded w-[180px] mt-2 text-white font-semibold flex justify-center items-center gap-1">Explore Project <GoLinkExternal /> </a>
                                 </div>
                                 <div>
-                                    <img className="rounded  object-cover bg-contain w-full lg:w-[600px] h-[px] lg:h-[px] " src="fb.png" alt="" />
+                                    <img className="rounded  object-cover bg-contain w-full lg:w-[600px]" src="fb.png" alt="fbclone" />
                                 </div>
                             </section>
                         </div>
@@ -332,8 +333,8 @@ function App() {
                             <a href='https://www.instagram.com/mickerl_codes/' className='text-2xl md:text-4xl  '><FaInstagram /></a>
                             <a href='mailto:nanayawwiafe007@gmail.com' className='text-2xl md:text-4xl '><MdOutlineMailOutline /></a>
                             <a href='https://www.linkedin.com/in/mickerl-codes/' className='text-2xl md:text-4xl'><FaLinkedinIn /></a>
-                            <a href='mailto:nanayawwiafe007@gmail.com' className='text-2xl md:text-4xl '><FaGithub /></a>
-                            <a href='https://www.linkedin.com/in/mickerl-codes/' className='text-2xl md:text-4xl '><FaYoutube /></a>
+                            <a href='https://github.com/MichaelOwusu007' className='text-2xl md:text-4xl '><FaGithub /></a>
+                            <a href='http://www.youtube.com/@mickerl_Codes' className='text-2xl md:text-4xl '><FaYoutube /></a>
                         </div>
                         <a href='mailto:nanayawwiafe007@gmail.com'>nanayawwiafe007@gmail.com</a>
                     </div>
