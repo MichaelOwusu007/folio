@@ -288,40 +288,43 @@ function App() {
                     </section>
                     <div className="mx-auto pt-20   flex text-center  gap-4 items-center justify-center flex-col">
                         <h2 className="text-[2.5rem] md:text-[5rem] font-semibold md:leading-[80px] ">
-                            <div className="container mx-auto">
+                            <p>I  <span className="hero-h1-gradient">CODE</span> AND I <span className="hero-h1-gradient">DESIGN</span> IT HERE</p>
+                            {/*
+                            <div className=" mx-auto">
+                                {/*container first div , masked first h1, custom-hover , element first span,
                                 <div className=" flex flex-col  w-full">
-                                    <h1 className=" masked  relative  font-bold bg-clip-text text-transparent ">
+                                    <h1 className="  relative  font-bold bg-clip-text text-transparent ">
                                         I{" "}
-                                        <span className=" relative element">
+                                        <span className=" relative ">
                                             <span className=" cursor-pointer hero-h1-gradient">design</span>
-                                            <span className="absolute z-[9999] custom-hover">
+                                            <span className="absolute z-[9999] ">
                                                 adobe creative suite
                                             </span>
-                                            <span className="absolute z-[9999] custom-hover">
+                                            <span className="absolute z-[9999] ">
                                                 Photoshop
                                             </span>
-                                            <span className="absolute z-[9999] text-white custom-hover">
+                                            <span className="absolute z-[9999] text-white ">
                                                 Branding,Web design
                                             </span>
                                         </span>{" "}
                                         and I{" "}
-                                        <span className=" element">
+                                        <span className="">
                                             <span className="cursor-pointer hero-h1-gradient">code</span>
-                                            <span className="absolute z-[9999] text-white custom-hover">
+                                            <span className="absolute z-[9999] text-white ">
                                                 ReactJS/NextJS
                                             </span>
-                                            <span className="absolute z-[9999] text-white custom-hover">
+                                            <span className="absolute z-[9999] text-white ">
                                                 web development
                                             </span>
-                                            <span className="absolute z-[9999] text-white custom-hover">
+                                            <span className="absolute z-[9999] text-white ">
                                                 Frontend Development
                                             </span>
                                         </span>{" "}
                                         It here.
-                                    </h1>
-                                    <p className="text-sm opacity-[0.5] ">Hover over text for something nice.</p>
+                                    </h1> 
+                                    {/* <p className="text-sm opacity-[0.5] ">Hover over text for something nice.</p>
                                 </div>
-                            </div>
+                            </div> */}
                         </h2>
                     </div>
 
