@@ -293,7 +293,7 @@ function App() {
                                     <h1 className=" masked  relative  font-bold bg-clip-text text-transparent ">
                                         I{" "}
                                         <span className=" relative element">
-                                            <span className=" cursor-pointer">design</span>
+                                            <span className=" cursor-pointer hero-h1-gradient">design</span>
                                             <span className="absolute z-[9999] custom-hover">
                                                 adobe creative suite
                                             </span>
@@ -306,7 +306,7 @@ function App() {
                                         </span>{" "}
                                         and I{" "}
                                         <span className=" element">
-                                            <span className="cursor-pointer">code</span>
+                                            <span className="cursor-pointer hero-h1-gradient">code</span>
                                             <span className="absolute z-[9999] text-white custom-hover">
                                                 ReactJS/NextJS
                                             </span>
