@@ -288,7 +288,7 @@ function App() {
                     </section>
                     <div className="mx-auto pt-20   flex text-center  gap-4 items-center justify-center flex-col">
                         <h2 className="text-[2.5rem] md:text-[5rem] font-semibold md:leading-[80px] ">
-                            <p>I  <span className="hero-h1-gradient">CODE</span> AND I <span className="hero-h1-gradient">DESIGN</span> IT HERE</p>
+                            <p>I  <span className="hero-h1-gradient">DESIGN</span> AND I <span className="hero-h1-gradient">CODE</span> IT HERE</p>
                             {/*
                             <div className=" mx-auto">
                                 {/*container first div , masked first h1, custom-hover , element first span,
