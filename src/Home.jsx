@@ -160,7 +160,7 @@ function App() {
                                     <a href="https://mckulegraphix.vercel.app/" className="text-lg py-2 text-center bg-blue-500 rounded w-[180px] mt-2 text-white font-semibold flex justify-center items-center gap-1">Explore Project <GoLinkExternal /> </a>
                                 </div>
                                 <div>
-                                    <img className="rounded object-cntain bg-contain w-full lg:w-[600px] h-[px] lg:h-[px] " src="freelance.PNG" alt="" />
+                                    <img className="rounded object-cntain bg-contain w-full lg:w-[600px] h-[px] lg:h-[px] " src="freelence.png" alt="" />
                                 </div>
                             </section>
                         </div>
