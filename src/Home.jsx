@@ -154,7 +154,7 @@ function App() {
                                     <div className="flex flex-wrap gap-2 w-full">
                                         <p className="border border-[#000] px-4 py-1 bg-[#2221] rounded-2xl text-sm">NextJS</p>
                                         <p className="border border-[#000] px-4 py-1 bg-[#2221] rounded-2xl text-sm">TailwindCSS</p>
-                                        <p className="border border-[#000] px-4 py-1 bg-[#ef525211] rounded-2xl text-sm">Typescript</p>
+                                        <p className="border border-[#000] px-4 py-1 bg-[#ef525211] rounded-2xl text-sm">TypeScript</p>
 
                                     </div>
                                     <a href="https://mckulegraphix.vercel.app/" className="text-lg py-2 text-center bg-blue-500 rounded w-[180px] mt-2 text-white font-semibold flex justify-center items-center gap-1">Explore Project <GoLinkExternal /> </a>
