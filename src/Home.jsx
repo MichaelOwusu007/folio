@@ -22,7 +22,7 @@ function App() {
                     <span></span>
                     <a href="mailto:michaelowusuwiafe007@gmail.com"><p>🍦 Hire Me</p></a>
                 </div>
-                <header className="text-black mx-auto  md: lg:px-10 flex  justify-between z-10 px-6 h-[5rem] items-center relative top-0 bg-[#fff] sticky ">
+                <header className="text-black mx-auto  md: lg:px-10 flex  justify-between z-10 px-6 h-[5rem] items-center top-0 bg-[#fff] sticky ">
                     <a href="/"><div className="">
                         <h2 className=" font-bold text-2xl uppercase tracking-wider ">Mickerl👋</h2>
                     </div></a>
