@@ -6,7 +6,6 @@ import { MdOutlineMailOutline } from "react-icons/md";
 import { FaLinkedinIn } from "react-icons/fa";
 import { FaLaptopCode } from "react-icons/fa6";
 import { FaGithub } from "react-icons/fa";
-import { FaYoutube } from "react-icons/fa";
 import { GoLinkExternal } from "react-icons/go";
 import { FaCode } from "react-icons/fa6";
 import { MdOutlineDesignServices } from "react-icons/md";
@@ -337,7 +336,8 @@ function App() {
                             <a href='mailto:nanayawwiafe007@gmail.com' className='text-2xl md:text-4xl '><MdOutlineMailOutline /></a>
                             <a href='https://www.linkedin.com/in/mickerl-codes/' className='text-2xl md:text-4xl'><FaLinkedinIn /></a>
                             <a href='https://github.com/MichaelOwusu007' className='text-2xl md:text-4xl '><FaGithub /></a>
-                            <a href='http://www.youtube.com/@mickerl_Codes' className='text-2xl md:text-4xl '><FaYoutube /></a>
+                            {/*
+                            <a href='http://www.youtube.com/@mickerl_Codes' className='text-2xl md:text-4xl '><FaYoutube /></a>*/}
                         </div>
                         <a href='mailto:michaelowusuwiafe007@gmail.com'>nanayawwiafe007@gmail.com</a>
                     </div>
