@@ -40,12 +40,6 @@ function App() {
                                     <a href="/#Project">Project</a>
                                 </p>
                             </div>
-                            {/*
-                            <div className="link">
-                                <p className="py-2">
-                                    <a href="/#About">Blog</a>
-                                </p>
-                            </div>*/}
                         </nav>
                         <a href="mickerl_codes.pdf" className="border border-blue-500 py-2 px-3"> Download CV</a>
                     </div>
@@ -59,21 +53,21 @@ function App() {
                             <p className="font-semibold text-lg lg:text-xl opacity-60 ">Frontend Developer | Designer </p>
                             <h3 className="text-blue-500 text-4xl lg:text-5xl font-bold tracking-wider">Michael Owusu</h3>
                             <h3 className="md:text-xl text-[18px] font-medium">As a dedicated front-end software developer. I specialize in creating websites and web applications, combining technical expertise with an aptitude for design. My proficiency extends to crafting user-friendly interfaces and ensuring seamless functionality.I have a sharp eye for detail and am dedicated to turning your web vision into reality.With a passion for innovation, I leverage my front-end skills to transform ideas into impactful digital
-                                experiences. I thrive in collaborative environments and continuously seek opportunities to enhance my skills.</h3>
+                            experiences. I thrive in collaborative environments and continuously seek opportunities to enhance my skills.</h3>
                             <div className=""></div>
                             <div className="flex gap-4 text-[16px] md:text-xl">
-                                <a className=" border border-[#000] py-2 px-3 " href="mickerl_codes.pdf">Download CV</a>
-                                <a href="mailto:michaelowusuwiafe007@gmail.com" className=" bg-[rgba(169,169,169,0.8)] py-[10px] px-6 hero-link" >Get In Touch</a>
+                            <a className=" border border-[#000] py-2 px-3 " href="mickerl_codes.pdf">Download CV</a>
+                            <a href="mailto:michaelowusuwiafe007@gmail.com" className=" bg-[rgba(169,169,169,0.8)] py-[10px] px-6 hero-link" >Get In Touch</a>
                             </div>
                         </section>
                     </section>
                     <section className="mb-20">
                         <h2 className="title w-max px-2 mb-3 font-semibold relative text-4xl">My Work</h2>
                         <div className="grid grid-cols-1 lg:grid-cols-2 gap-10">
-                            <div className=" bg-[rgba(169,169,169,0.8)] flex gap-4 rounded-md p-4 py-6">
-                                <div className="bg-blue-500 h-[55px] rounded-md p-3 flex items-center justify-center"> <i className="text-4xl text-white"><FaLaptopCode /></i> </div>
-                                <div>
-                                    <h2 className="text-xl font-semibold">Web Development</h2>
+                        <div className=" bg-[rgba(169,169,169,0.8)] flex gap-4 rounded-md p-4 py-6">
+                        <div className="bg-blue-500 h-[55px] rounded-md p-3 flex items-center justify-center"> <i className="text-4xl text-white"><FaLaptopCode /></i> </div>
+                        <div>
+                         <h2 className="text-xl font-semibold">Web Development</h2>
                                     <p className="md:text-lg">
                                         Dedicated to crafting compelling and user-friendly interfaces through expert use of HTML, CSS, and JavaScript. Specialized proficiency in developing visually appealing and responsive websites, with expertise in popular front-end frameworks such as React and Next.js. Adept in utilizing Tailwind CSS for streamlined styling. Committed to implementing responsive design principles and ensuring seamless compatibility across various browsers.
                                     </p>
