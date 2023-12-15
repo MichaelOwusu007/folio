@@ -147,7 +147,7 @@ function App() {
                                     <div className="flex flex-wrap gap-2 w-full">
                                         <p className="border border-[#000] px-4 py-1 bg-[#2221] rounded-2xl text-sm">NextJS</p>
                                         <p className="border border-[#000] px-4 py-1 bg-[#2221] rounded-2xl text-sm">TailwindCSS</p>
-                                        <p className="border border-[#000] px-4 py-1 bg-[#2221] rounded-2xl text-sm">TypeScript</p>
+                                        <p className="border border-[#000] px-4 py-1 bg-[#2221] rounded-2xl text-sm">JavaScript</p>
 
                                     </div>
                                     <a href="https://mckulegraphix.vercel.app/" className="text-lg py-2 text-center bg-blue-500 rounded w-[180px] mt-2 text-white font-semibold flex justify-center items-center gap-1">Explore Project <GoLinkExternal /> </a>
@@ -282,45 +282,8 @@ function App() {
                     <div className="mx-auto pt-20   flex text-center  gap-4 items-center justify-center flex-col">
                         <h2 className="text-[2.5rem] md:text-[5rem] font-semibold md:leading-[80px] ">
                             <p>I  <span className="hero-h1-gradient">DESIGN</span> AND I <span className="hero-h1-gradient">CODE</span> IT HERE</p>
-                            {/*
-                            <div className=" mx-auto">
-                                {/*container first div , masked first h1, custom-hover , element first span,
-                                <div className=" flex flex-col  w-full">
-                                    <h1 className="  relative  font-bold bg-clip-text text-transparent ">
-                                        I{" "}
-                                        <span className=" relative ">
-                                            <span className=" cursor-pointer hero-h1-gradient">design</span>
-                                            <span className="absolute z-[9999] ">
-                                                adobe creative suite
-                                            </span>
-                                            <span className="absolute z-[9999] ">
-                                                Photoshop
-                                            </span>
-                                            <span className="absolute z-[9999] text-white ">
-                                                Branding,Web design
-                                            </span>
-                                        </span>{" "}
-                                        and I{" "}
-                                        <span className="">
-                                            <span className="cursor-pointer hero-h1-gradient">code</span>
-                                            <span className="absolute z-[9999] text-white ">
-                                                ReactJS/NextJS
-                                            </span>
-                                            <span className="absolute z-[9999] text-white ">
-                                                web development
-                                            </span>
-                                            <span className="absolute z-[9999] text-white ">
-                                                Frontend Development
-                                            </span>
-                                        </span>{" "}
-                                        It here.
-                                    </h1> 
-                                    {/* <p className="text-sm opacity-[0.5] ">Hover over text for something nice.</p>
-                                </div>
-                            </div> */}
                         </h2>
                     </div>
-
                 </section>
                 <footer >
                     <div className="py-36 flex flex-col items-center justify-center">
