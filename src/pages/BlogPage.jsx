@@ -26,7 +26,7 @@ function BlogPage() {
         <ul className='grid grid-cols-1 sm:grid-cols-3'>
             <a href="https://mickerlcodes.hashnode.dev/the-web-and-how-it-works">
                 <div className='mb-10 max-w-[400px] m-5 cursor-pointer '>
-                    <img className='w-full rounded-md' src="Blog1.png" alt="" />
+                    <img className='w-full rounded-md' src="blog1.png" alt="" />
                     <h2 className='text-2xl my-3 font-medium mt-5'>The Web And How It Works🕸&zwj;👨‍💻</h2>
                     <p className=''>Here is what you need to kick start your web developer career today.</p>
                     <ul className='flex items-center flex-wrap mt-3'>
