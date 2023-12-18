@@ -40,6 +40,11 @@ function App() {
                                     <a href="/#Project">Project</a>
                                 </p>
                             </div>
+                            <div className="link">
+                                <p className="py-2">
+                                    <a href="Blog">Blog</a>
+                                </p>
+                            </div>
                         </nav>
                         <a href="mickerl_codes.pdf" className="border border-blue-500 py-2 px-3"> Download CV</a>
                     </div>
