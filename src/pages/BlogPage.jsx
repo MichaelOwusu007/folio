@@ -39,7 +39,7 @@ function BlogPage() {
             </a>
             <a href="https://mickerlcodes.hashnode.dev/software-development-life-cyclesdlc">
                 <div className='mb-10 max-w-[400px] m-5 cursor-pointer '>
-                    <img className='w-full rounded-md' src="blog.png" alt="" />
+                    <img className='w-full rounded-md' src="blog.jpg" alt="" />
                     <h2 className='text-2xl my-3 font-medium mt-5'>The software development life cycle 👨‍💻</h2>
                     <p className=''>Let's delve into problem-solving and the Software Development Life Cycle.</p>
                     <ul className='flex items-center flex-wrap mt-3'>
