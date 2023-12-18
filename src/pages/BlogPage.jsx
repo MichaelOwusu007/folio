@@ -40,7 +40,7 @@ function BlogPage() {
             <a href="https://mickerlcodes.hashnode.dev/software-development-life-cyclesdlc">
                 <div className='mb-10 max-w-[400px] m-5 cursor-pointer '>
                     <img className='w-full rounded-md' src="blog.png" alt="" />
-                    <h2 className='text-2xl my-3 font-medium mt-5'>The software development life cycle🕸&zwj;👨‍💻</h2>
+                    <h2 className='text-2xl my-3 font-medium mt-5'>The software development life cycle 👨‍💻</h2>
                     <p className=''>Let's delve into problem-solving and the Software Development Life Cycle.</p>
                     <ul className='flex items-center flex-wrap mt-3'>
                         <span className='tag text-[13px] rounded-md border m-2 ml-0 p-1 px-2 bg-[#dcdbe1] '>webdev</span>
@@ -50,6 +50,7 @@ function BlogPage() {
                     </ul>
                 </div>
             </a>
+            {/*
             <a href="/">
                 <div className='mb-10 max-w-[400px] m-5 cursor-pointer '>
                     <img className='w-full rounded-md' src="blog3.png" alt="" />
@@ -75,7 +76,7 @@ function BlogPage() {
                         <span className='tag text-[13px] rounded-md border m-2 ml-0 p-1 px-2 bg-[#dcdbe1] '>documentation</span>
                     </ul>
                 </div>
-            </a>
+            </a> */}
         </ul>
         </section>
         </div>
