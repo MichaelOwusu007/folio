@@ -30,10 +30,10 @@ function BlogPage() {
                     <h2 className='text-2xl my-3 font-medium mt-5'>The Web And How It Works🕸&zwj;👨‍💻</h2>
                     <p className=''>Here is what you need to kick start your web developer career today.</p>
                     <ul className='flex items-center flex-wrap mt-3'>
-                        <span className='tag text-[13px] rounded-md border m-2 ml-0 p-1 px-2 bg-[#dcdbe1] '>#webdev</span>
-                        <span className='tag text-[13px] rounded-md border m-2 ml-0 p-1 px-2 bg-[#dcdbe1] '>#interview</span>
-                        <span className='tag text-[13px] rounded-md border m-2 ml-0 p-1 px-2 bg-[#dcdbe1] '>#theweb</span>
-                        <span className='tag text-[13px] rounded-md border m-2 ml-0 p-1 px-2 bg-[#dcdbe1] '>#Frontend</span>
+                        <span className='tag text-[13px] rounded-md border m-2 ml-0 p-1 px-2 bg-[#dcdbe1] '>web developer</span>
+                        <span className='tag text-[13px] rounded-md border m-2 ml-0 p-1 px-2 bg-[#dcdbe1] '>interview</span>
+                        <span className='tag text-[13px] rounded-md border m-2 ml-0 p-1 px-2 bg-[#dcdbe1] '>theweb</span>
+                        <span className='tag text-[13px] rounded-md border m-2 ml-0 p-1 px-2 bg-[#dcdbe1] '>Frontend developer</span>
                     </ul>
                 </div>
             </a>
@@ -43,10 +43,10 @@ function BlogPage() {
                     <h2 className='text-2xl my-3 font-medium mt-5'>The software development life cycle🕸&zwj;👨‍💻</h2>
                     <p className=''>Let's delve into problem-solving and the Software Development Life Cycle.</p>
                     <ul className='flex items-center flex-wrap mt-3'>
-                        <span className='tag text-[13px] rounded-md border m-2 ml-0 p-1 px-2 bg-[#dcdbe1] '>#webdev</span>
-                        <span className='tag text-[13px] rounded-md border m-2 ml-0 p-1 px-2 bg-[#dcdbe1] '>#software development</span>
-                        <span className='tag text-[13px] rounded-md border m-2 ml-0 p-1 px-2 bg-[#dcdbe1] '>#software engineering</span>
-                        <span className='tag text-[13px] rounded-md border m-2 ml-0 p-1 px-2 bg-[#dcdbe1] '>#devs operation</span>
+                        <span className='tag text-[13px] rounded-md border m-2 ml-0 p-1 px-2 bg-[#dcdbe1] '>webdev</span>
+                        <span className='tag text-[13px] rounded-md border m-2 ml-0 p-1 px-2 bg-[#dcdbe1] '>software development</span>
+                        <span className='tag text-[13px] rounded-md border m-2 ml-0 p-1 px-2 bg-[#dcdbe1] '>software engineering</span>
+                        <span className='tag text-[13px] rounded-md border m-2 ml-0 p-1 px-2 bg-[#dcdbe1] '>devs operation</span>
                     </ul>
                 </div>
             </a>
@@ -56,10 +56,10 @@ function BlogPage() {
                     <h2 className='text-2xl my-3 font-medium mt-5'>If I Did It You Can Also Do It Too🥺&zwj;❤</h2>
                     <p className=''>Motivate yourself with my story here.You can do it.</p>
                     <ul className='flex items-center flex-wrap mt-3'>
-                        <span className='tag text-[13px] rounded-md border m-2 ml-0 p-1 px-2 bg-[#dcdbe1] '>#consistency</span>
-                        <span className='tag text-[13px] rounded-md border m-2 ml-0 p-1 px-2 bg-[#dcdbe1] '>#motivation</span>
-                        <span className='tag text-[13px] rounded-md border m-2 ml-0 p-1 px-2 bg-[#dcdbe1] '>#webdev</span>
-                        <span className='tag text-[13px] rounded-md border m-2 ml-0 p-1 px-2 bg-[#dcdbe1] '>#Goddid</span>
+                        <span className='tag text-[13px] rounded-md border m-2 ml-0 p-1 px-2 bg-[#dcdbe1] '>consistency</span>
+                        <span className='tag text-[13px] rounded-md border m-2 ml-0 p-1 px-2 bg-[#dcdbe1] '>motivation</span>
+                        <span className='tag text-[13px] rounded-md border m-2 ml-0 p-1 px-2 bg-[#dcdbe1] '>web development</span>
+                        <span className='tag text-[13px] rounded-md border m-2 ml-0 p-1 px-2 bg-[#dcdbe1] '>Goddid</span>
                     </ul>
                 </div>
             </a>
@@ -69,10 +69,10 @@ function BlogPage() {
                     <h2 className='text-2xl my-3 font-medium mt-5'>All You Need to Know About Documentation✍&zwj;📝</h2>
                     <p className=''>Did you know 70% of your work as a developer on the job is documentation?</p>
                     <ul className='flex items-center flex-wrap mt-3'>
-                        <span className='tag text-[13px] rounded-md border m-2 ml-0 p-1 px-2 bg-[#dcdbe1] '>#webdev</span>
-                        <span className='tag text-[13px] rounded-md border m-2 ml-0 p-1 px-2 bg-[#dcdbe1] '>#webdev</span>
-                        <span className='tag text-[13px] rounded-md border m-2 ml-0 p-1 px-2 bg-[#dcdbe1] '>#webdev</span>
-                        <span className='tag text-[13px] rounded-md border m-2 ml-0 p-1 px-2 bg-[#dcdbe1] '>#webdev</span>
+                        <span className='tag text-[13px] rounded-md border m-2 ml-0 p-1 px-2 bg-[#dcdbe1] '>team work</span>
+                        <span className='tag text-[13px] rounded-md border m-2 ml-0 p-1 px-2 bg-[#dcdbe1] '>technical writing</span>
+                        <span className='tag text-[13px] rounded-md border m-2 ml-0 p-1 px-2 bg-[#dcdbe1] '>content creation</span>
+                        <span className='tag text-[13px] rounded-md border m-2 ml-0 p-1 px-2 bg-[#dcdbe1] '>documentation</span>
                     </ul>
                 </div>
             </a>
