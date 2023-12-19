@@ -1,5 +1,6 @@
 import React from 'react'
 
+
 function BlogPage() {
   return (
     <div>
@@ -79,6 +80,14 @@ function BlogPage() {
             </a> */}
         </ul>
         </section>
+                  <div className='sm:text-md mx-auto mt-20 flex h-20 items-center justify-between border-t text-sm md:text-lg lg:text-xl px-1 '>
+                        <p>Copyright@2023 |
+                            <span className='text-brand font-bold text-red-600'>PORTFOLIO</span>
+                        </p>
+                        <p>Designed By:
+                            <a href='https://twitter.com/Mickerl_Codes'>Mickerl_Codes</a>
+                        </p>
+                 </div>
         </div>
     </div>
   )

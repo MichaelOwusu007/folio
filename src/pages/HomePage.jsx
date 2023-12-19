@@ -1,15 +1,11 @@
 import React from "react";
 import './Home.css'
-import { FaXTwitter } from "react-icons/fa6";
-import { FaInstagram } from "react-icons/fa";
-import { MdOutlineMailOutline } from "react-icons/md";
-import { FaLinkedinIn } from "react-icons/fa";
 import { FaLaptopCode } from "react-icons/fa6";
-import { FaGithub } from "react-icons/fa";
 import { GoLinkExternal } from "react-icons/go";
 import { FaCode } from "react-icons/fa6";
 import { MdOutlineDesignServices } from "react-icons/md";
 import { TbWriting } from "react-icons/tb";
+import Footer from "../components/Footer"
 
 
 function App() {
@@ -26,21 +22,21 @@ function App() {
                         <h2 className=" font-bold text-2xl uppercase tracking-wider ">Mickerl👋</h2>
                     </div></a>
                     <div className="flex items-center  gap-10 ">
-                        <nav className="hidden lg:flex gap-x-10 text-[18px] font-semibold ">
-                            <div className="navlink">
+                        <nav className="flex gap-x-10 text-[18px] font-semibold ">
+                            <div className="navlink hidden lg:flex">
                                 <a href="/"><p className="py-2">Home</p></a>
                             </div>
-                            <div className="link">
+                            <div className="link hidden lg:flex">
                                 <p className="py-2">
                                     <a href="/#About">About</a>
                                 </p>
                             </div>
-                            <div className="link">
+                            <div className="link hidden lg:flex">
                                 <p className="py-2">
                                     <a href="/#Project">Project</a>
                                 </p>
                             </div>
-                            <div className="link">
+                            <div className="link hidden sm:flex">
                                 <p className="py-2">
                                     <a href="Blog">Blog</a>
                                 </p>
@@ -290,28 +286,7 @@ function App() {
                         </h2>
                     </div>
                 </section>
-                <footer >
-                    <div className="py-36 flex flex-col items-center justify-center">
-                        <div className='flex gap-6 pb-4'>
-                            <a href='https://twitter.com/Mickerl_Codes' className=' text-2xl md:text-4xl  '><FaXTwitter /></a>
-                            <a href='https://www.instagram.com/mickerl_codes/' className='text-2xl md:text-4xl  '><FaInstagram /></a>
-                            <a href='mailto:nanayawwiafe007@gmail.com' className='text-2xl md:text-4xl '><MdOutlineMailOutline /></a>
-                            <a href='https://www.linkedin.com/in/mickerl-codes/' className='text-2xl md:text-4xl'><FaLinkedinIn /></a>
-                            <a href='https://github.com/MichaelOwusu007' className='text-2xl md:text-4xl '><FaGithub /></a>
-                            {/*
-                            <a href='http://www.youtube.com/@mickerl_Codes' className='text-2xl md:text-4xl '><FaYoutube /></a>*/}
-                        </div>
-                        <a href='mailto:michaelowusuwiafe007@gmail.com'>nanayawwiafe007@gmail.com</a>
-                    </div>
-                    <div className='sm:text-md mx-auto mt-10 flex h-20 items-center justify-between border-t text-sm md:text-lg lg:text-xl px-1 '>
-                        <p>Copyright @ 2023 |
-                            <span className='text-brand font-bold text-red-600'>PORTFOLIO</span>
-                        </p>
-                        <p>Designed By:
-                            <a href='https://twitter.com/Mickerl_Codes'>Mickerl_Codes</a>
-                        </p>
-                    </div>
-                </footer>
+               <Footer/>
             </div>
         </div>
     );
