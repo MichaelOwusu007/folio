@@ -131,7 +131,7 @@ function App() {
                                         <p className="border border-[#000] px-4 py-1 bg-[#2221] rounded-2xl text-sm">TmdbAPI</p>
                                         <p className="border border-[#000] px-4 py-1 bg-[#2221] rounded-2xl text-sm">TailwindCSS</p>
                                     </div>
-                                    <a href="https://tapflixtrailer.vercel.app/" className="text-lg py-2 text-center bg-blue-500 rounded w-[180px] mt-2 text-white font-semibold flex justify-center items-center gap-1">Explore Project <GoLinkExternal /> </a>
+                                    <a href="https://taptapflix.vercel.app/" className="text-lg py-2 text-center bg-blue-500 rounded w-[180px] mt-2 text-white font-semibold flex justify-center items-center gap-1">Explore Project <GoLinkExternal /> </a>
                                 </div>
                                 <div>
                                     <img className="rounded opacity-90 object-contain bg-contain w-full lg:w-[600px] h-[px] lg:h-[px] " src="tapflix.jpg" alt="" />
