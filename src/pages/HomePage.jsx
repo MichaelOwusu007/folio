@@ -48,7 +48,7 @@ function App() {
                 <section className="max-w-7xl px-6 lg:px-4 mx-auto">
                     <section className="overflow-hidden lg:h-[100vh] flex flex-col lg:flex-row gap-4 mb-20 py-10 justify-evenly items-center ">
                         <div className="">
-                            <img src="me.jpg" alt="" className="p-6 sm:w-[30rem] overflow-x-hidden rounded-full " />
+                            <img src="me2.jpg" alt="" className="p-6 sm:w-[30rem] overflow-x-hidden rounded-full " />
                         </div>
                         <section className="w-full lg:w-[650px] flex flex-col gap-3 ">
                             <p className="font-semibold text-lg lg:text-xl opacity-60 ">Frontend Developer | Designer </p>

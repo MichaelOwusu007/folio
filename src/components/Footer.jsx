@@ -25,7 +25,7 @@ function Footer() {
             <span className='text-brand font-bold text-red-600'>PORTFOLIO</span>
         </p>
         <p>Designed By:
-            <a href='https://twitter.com/Mickerl_Codes'>Mickerl_Codes</a>
+            <a href='https://twitter.com/Mickerl_dev'>Mickerl_Codes</a>
         </p>
     </div>
 </footer>
