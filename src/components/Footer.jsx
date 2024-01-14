@@ -10,8 +10,8 @@ function Footer() {
     <footer >
     <div className="py-36 flex flex-col items-center justify-center">
         <div className='flex gap-6 pb-4'>
-            <a href='https://twitter.com/Mickerl_Codes' className=' text-2xl md:text-4xl  '><FaXTwitter /></a>
-            <a href='https://www.instagram.com/mickerl_codes/' className='text-2xl md:text-4xl  '><FaInstagram /></a>
+            <a href='' className=' text-2xl md:text-4xl  '><FaXTwitter /></a>
+            <a href='https://twitter.com/Mickerl_dev' className='text-2xl md:text-4xl  '><FaInstagram /></a>
             <a href='mailto:nanayawwiafe007@gmail.com' className='text-2xl md:text-4xl '><MdOutlineMailOutline /></a>
             <a href='https://www.linkedin.com/in/mickerl-codes/' className='text-2xl md:text-4xl'><FaLinkedinIn /></a>
             <a href='https://github.com/MichaelOwusu007' className='text-2xl md:text-4xl '><FaGithub /></a>
