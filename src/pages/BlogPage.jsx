@@ -51,33 +51,6 @@ function BlogPage() {
                     </ul>
                 </div>
             </a>
-            {/*
-            <a href="/">
-                <div className='mb-10 max-w-[400px] m-5 cursor-pointer '>
-                    <img className='w-full rounded-md' src="blog3.png" alt="" />
-                    <h2 className='text-2xl my-3 font-medium mt-5'>If I Did It You Can Also Do It Too🥺&zwj;❤</h2>
-                    <p className=''>Motivate yourself with my story here.You can do it.</p>
-                    <ul className='flex items-center flex-wrap mt-3'>
-                        <span className='tag text-[13px] rounded-md border m-2 ml-0 p-1 px-2 bg-[#dcdbe1] '>consistency</span>
-                        <span className='tag text-[13px] rounded-md border m-2 ml-0 p-1 px-2 bg-[#dcdbe1] '>motivation</span>
-                        <span className='tag text-[13px] rounded-md border m-2 ml-0 p-1 px-2 bg-[#dcdbe1] '>web development</span>
-                        <span className='tag text-[13px] rounded-md border m-2 ml-0 p-1 px-2 bg-[#dcdbe1] '>Goddid</span>
-                    </ul>
-                </div>
-            </a>
-            <a href="/">
-                <div className='mb-10 max-w-[400px] m-5 cursor-pointer '>
-                    <img className='w-full rounded-md' src="blog4.png" alt="" />
-                    <h2 className='text-2xl my-3 font-medium mt-5'>All You Need to Know About Documentation✍&zwj;📝</h2>
-                    <p className=''>Did you know 70% of your work as a developer on the job is documentation?</p>
-                    <ul className='flex items-center flex-wrap mt-3'>
-                        <span className='tag text-[13px] rounded-md border m-2 ml-0 p-1 px-2 bg-[#dcdbe1] '>team work</span>
-                        <span className='tag text-[13px] rounded-md border m-2 ml-0 p-1 px-2 bg-[#dcdbe1] '>technical writing</span>
-                        <span className='tag text-[13px] rounded-md border m-2 ml-0 p-1 px-2 bg-[#dcdbe1] '>content creation</span>
-                        <span className='tag text-[13px] rounded-md border m-2 ml-0 p-1 px-2 bg-[#dcdbe1] '>documentation</span>
-                    </ul>
-                </div>
-            </a> */}
         </ul>
         </section>
                   <div className='sm:text-md mx-auto mt-20 flex h-20 items-center justify-between border-t text-sm md:text-lg lg:text-xl px-1 '>
