@@ -198,6 +198,23 @@ function App() {
                         </div>
                         <div className="mt-10 scroll-m-[30px] ">
                             <section className=" justify-between  flex flex-col lg:flex-row relative gap-14 lg:gap-15  rounded-2xl overflow-hidden shadow-2xl p-5 lg:p-10 ">
+                                <div className="w-full lg:w-[55%] relative flex flex-col  leading-[2rem]">
+                                    <h3 className="font-semibold text-xl lg:text-[25px]">Portfolio Site</h3>
+                                    <p>My first portfolio:</p>
+                                    <p className="mb-2 md:text-[17px] ">A portfolio website built with Next.js and tailwind CSS. This website is a portfolio website i built for myself showcasing my progress as a frontend developer, which includes projects i have worked on, my tech stack, about me section and my work as a prolific frontend developer.This was to show clients and recruiters what i can do.</p>
+                                    <div className="flex flex-wrap gap-2 w-full">
+                                        <p className="border border-[#000] px-4 py-1 bg-[#2221] rounded-2xl text-sm">NextJS</p>
+                                        <p className="border border-[#000] px-4 py-1 bg-[#2221] rounded-2xl text-sm">TailwindCSS</p>
+                                    </div>
+                                    <a href="https://mickerl-codes.vercel.app/" className="text-lg py-2 text-center bg-blue-500 rounded w-[180px] mt-2 text-white font-semibold flex justify-center items-center gap-1">Explore Project <GoLinkExternal /> </a>
+                                </div>
+                                <div>
+                                    <img className="rounded  object-contain bg-contain w-full lg:w-[600px] h-[px] lg:h-[px] " src="me.PNG" alt="" />
+                                </div>
+                            </section>
+                        </div>
+                        <div className="mt-10 scroll-m-[30px] ">
+                            <section className=" justify-between  flex flex-col lg:flex-row relative gap-14 lg:gap-15  rounded-2xl overflow-hidden shadow-2xl p-5 lg:p-10 ">
 
                                 <div className="w-full lg:w-[55%] relative flex flex-col  leading-[2rem]">
                                     <h3 className="font-semibold text-xl lg:text-[25px]">Netflix Clone</h3>
