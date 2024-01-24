@@ -19,7 +19,7 @@ function App() {
                 </div>
                 <header className="text-black mx-auto  md: lg:px-10 flex  justify-between z-10 px-4 h-[5rem] items-center top-0 bg-[#fff] sticky ">
                     <a href="/"><div className="">
-                        <h2 className=" font-bold text-2xl uppercase tracking-wider ">Mickerl👋</h2>
+                        <h2 className=" font-bold text-2xl uppercase tracking-wider ">Mickerl</h2>
                     </div></a>
                     <div className="flex items-center  gap-8 sm:gap-10 ">
                         <nav className="flex gap-x-8 text-[18px] font-semibold ">
