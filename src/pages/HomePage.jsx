@@ -300,14 +300,6 @@ function App() {
                                 <i></i>
                             </div>
                             <div className="px-2 py-2 flex items-center w-[170px] rounded-[9999px] justify-center shadow-lg shadow-gray-300'">
-                                <p className="px-2">AdobeXd</p>
-                                <i></i>
-                            </div>
-                            <div className="px-2 py-2 flex items-center w-[170px] rounded-[9999px] justify-center shadow-lg shadow-gray-300'">
-                                <p className="px-2">Figma</p>
-                                <i></i>
-                            </div>
-                            <div className="px-2 py-2 flex items-center w-[170px] rounded-[9999px] justify-center shadow-lg shadow-gray-300'">
                                 <p className="px-2">Flutter</p>
                                 <i></i>
                             </div>
@@ -315,24 +307,13 @@ function App() {
                                 <p className="px-2">Express</p>
                                 <i></i>
                             </div>
-                            <div className="px-2 py-2 flex items-center w-[170px] rounded-[9999px] justify-center shadow-lg shadow-gray-300'">
-                                <p className="px-2">Phython</p>
-                                <i></i>
-                            </div>
+                        
                             <div className="px-2 py-2 flex items-center w-[170px] rounded-[9999px] justify-center shadow-lg shadow-gray-300'">
                                 <p className="px-2">NodeJS</p>
                                 <i></i>
                             </div>
                             <div className="px-2 py-2 flex items-center w-[170px] rounded-[9999px] justify-center shadow-lg shadow-gray-300'">
                                 <p className="px-2">MangoDb</p>
-                                <i></i>
-                            </div>
-                            <div className="px-2 py-2 flex items-center w-[170px] rounded-[9999px] justify-center shadow-lg shadow-gray-300'">
-                                <p className="px-2">React Native</p>
-                                <i></i>
-                            </div>
-                            <div className="px-2 py-2 flex items-center w-[170px] rounded-[9999px] justify-center shadow-lg shadow-gray-300'">
-                                <p className="px-2">Sass</p>
                                 <i></i>
                             </div>
                         </section>
