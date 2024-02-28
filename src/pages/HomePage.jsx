@@ -115,9 +115,14 @@ function App() {
                         </p>
                     </section>
                     <section id="Project" className=" py-10 pb-20 snap-y scroll-mt-[6rem] ">
+                        <div className=" flex justify-between">
                         <h2 className="title relative w-max px-2 mb-3 font-semibold text-4xl">
                             Projects
                         </h2>
+                        <a href="/#Project" className="text-blue-500 hover:text-pink-700">
+                        <h3 className=" title relative w-max text-2xl font-extrabold">Visual</h3>
+                        </a>
+                        </div>
                         <div className="mt-10 scroll-m-[30px] ">
                             <section className=" justify-between  flex flex-col lg:flex-row relative gap-14 lg:gap-15  rounded-2xl overflow-hidden shadow-2xl p-5 lg:p-10 ">
 
