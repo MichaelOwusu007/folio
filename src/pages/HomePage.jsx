@@ -57,7 +57,7 @@ function App() {
                             experiences. I thrive in collaborative environments and continuously seek opportunities to enhance my skills.</h3>
                             <div className=""></div>
                             <div className="flex gap-4 text-[16px] md:text-xl">
-                            <a className=" border border-[#000] py-2 px-3 " href="mickerl_codes.pdf">Download CV</a>
+                            <a className=" border border-[#000] py-2 px-3 " href="MyResume.pdf">Download CV</a>
                             <a href="mailto:michaelowusuwiafe007@gmail.com" className=" bg-[rgba(169,169,169,0.8)] py-[10px] px-6 hero-link" >Get In Touch</a>
                             </div>
                         </section>
