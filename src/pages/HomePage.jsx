@@ -42,7 +42,7 @@ function App() {
                                 </p>
                             </div>
                         </nav>
-                        <a href="mickerl_codes.pdf" className="border border-blue-500 py-2 px-3"> Download CV</a>
+                        <a href="MyResume.pdf" className="border border-blue-500 py-2 px-3"> Download CV</a>
                     </div>
                 </header>
                 <section className="max-w-7xl px-6 lg:px-4 mx-auto">
