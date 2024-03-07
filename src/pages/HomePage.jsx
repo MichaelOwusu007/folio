@@ -15,7 +15,7 @@ function App() {
             <div className=" relative scroll-smooth select-none">
                 <div className=" fixed flex items-center justify-center px-6 bottom-4 right-4 m-4 md:m-10 cursor-pointer p-3 text-xl rounded-3xl font-bold bg-blue-500 z-[20] ">
                     <span></span>
-                    <a href="mailto:michaelowusuwiafe007@gmail.com"><p>🍦 Hire Me</p></a>
+                    <a href="mailto:michaelowusuwiafe007@gmail.com"><p>🍦Hire Me</p></a>
                 </div>
                 <header className="text-black mx-auto  md: lg:px-10 flex  justify-between z-10 px-4 h-[5rem] items-center top-0 bg-[#fff] sticky ">
                     <a href="/"><div className="">
