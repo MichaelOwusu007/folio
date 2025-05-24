@@ -284,10 +284,7 @@ function App() {
                                 <p className="px-2">Git git</p>
                                 <i></i>
                             </div>
-                            <div className="px-2 py-2 flex items-center w-[170px] rounded-[9999px] justify-center shadow-lg shadow-gray-300'">
-                                <p className="px-2">Redux</p>
-                                <i></i>
-                            </div>
+                         
                             <div className="px-2 py-2 flex items-center w-[170px] rounded-[9999px] justify-center shadow-lg shadow-gray-300'">
                                 <p className="px-2">Firebase</p>
                                 <i></i>
@@ -302,19 +299,6 @@ function App() {
                             </div>
                             <div className="px-2 py-2 flex items-center w-[170px] rounded-[9999px] justify-center shadow-lg shadow-gray-300'">
                                 <p className="px-2">Typescript</p>
-                                <i></i>
-                            </div>
-                            <div className="px-2 py-2 flex items-center w-[170px] rounded-[9999px] justify-center shadow-lg shadow-gray-300'">
-                                <p className="px-2">React native</p>
-                                <i></i>
-                            </div>
-                            <div className="px-2 py-2 flex items-center w-[170px] rounded-[9999px] justify-center shadow-lg shadow-gray-300'">
-                                <p className="px-2">Express</p>
-                                <i></i>
-                            </div>
-                        
-                            <div className="px-2 py-2 flex items-center w-[170px] rounded-[9999px] justify-center shadow-lg shadow-gray-300'">
-                                <p className="px-2">NodeJS</p>
                                 <i></i>
                             </div>
                             <div className="px-2 py-2 flex items-center w-[170px] rounded-[9999px] justify-center shadow-lg shadow-gray-300'">
